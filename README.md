@@ -1,2 +1,6 @@
-# https-github.com-dr-matt-smith-unity-cookbook-2018-ch18
-Unity 2018 Cookbook - Chapter 18 editor extensions
+# unity-cookbook-2018-ch18
+Assets for cookbook 2018 - chapter 18
+
+The completed Unity projects for each example can be found in their own repos as follows:
+
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch18-01-menu-log
